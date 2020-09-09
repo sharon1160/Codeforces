@@ -8,7 +8,7 @@ using namespace std;
 int main() {
   int t, n,numero, i=0 ;
   cin>>t;
-  while(i<t){
+  while(i < t){
     cin>>n;
     vector<int> p1;
     vector<int> p2;
